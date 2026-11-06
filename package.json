@@ -1,4 +1,4 @@
-{
+﻿{
 	"name": "mostakim-obsidian-template",
 	"version": "1.0.0",
 	"description": "Personal Obsidian community plugin template by Mostakim2005",
@@ -26,3 +26,4 @@
 		"typescript-eslint": "^8.59.1"
 	}
 }
+

@@ -1,4 +1,4 @@
-{
+﻿{
 	"id": "sample-plugin",
 	"name": "Sample Plugin",
 	"version": "1.0.0",
@@ -9,3 +9,4 @@
 	"fundingUrl": "https://github.com/Mostakim2005",
 	"isDesktopOnly": false
 }
+
